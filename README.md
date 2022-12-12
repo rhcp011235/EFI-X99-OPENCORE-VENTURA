@@ -10,6 +10,8 @@ You can donate from: https://social.rhcp011235.me/johnhale
 hardware. Ideally, all your system compatibility changes are in this boot partition, away from macOS itself. You don't 
 want a macOS update accidentally breaking your system. This EFI will only work with my specific setup, but may work with 
 similar ones via tweaking. 
+
+![imacpro6_1_-_Disk Speed] https://github.com/rhcp011235/EFI-X99-OPENCORE-VENTURA/blob/main/NVME_SPEED.png?raw=true
 ![imacpro6_1_-_geekbench_browser]( # INSERT IMAGE TO BENCHMARK HERE) 
 ## Why Github? This is the easiest way to make and track changes to improve support and manage OS updates (as needed). Not 
 having your EFI in revision control is bad. Eventually you will end up breaking something and not remember what you did. 
